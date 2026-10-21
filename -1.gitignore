@@ -1,0 +1,7 @@
+# ব্যক্তিগত ডেটা ও সিক্রেট কখনো GitHub-এ আপলোড করবেন না
+*.db
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.venv/
+.env
